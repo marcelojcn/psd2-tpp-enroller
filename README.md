@@ -36,6 +36,11 @@ To install dependencies use `setup.py` script.
 python setup.py install
 ```
 
+### Base Project
+
+This project is based on BEC python script for bank enrollment for PSD2.
+The project can be found at: https://github.com/bec-denmark/openbanking-tpp-client-python
+
 ### Purpose
 
 This utility library helps TPP developers to properly configure and establish a secure connection.
